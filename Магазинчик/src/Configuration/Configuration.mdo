@@ -41,5 +41,6 @@
   <subsystems>Subsystem.Товары</subsystems>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Сотрудники</catalogs>
   <documents>Document.ПоступлениеТоваров</documents>
 </mdclass:Configuration>
